@@ -5,7 +5,7 @@ Application web de gestion de facturation développée avec Django.
 ## 👥 Chefs d'équipe
 
 - `authentification` + `gestionnaire` : Tchinda (chef), Miguel (sous-chef)
-- `caisse` : Charles
+- `caisse` : Charles, Ange Trecy
 - `phone` : Nghomsi
 
 ## 🗃️ Modèle de données
